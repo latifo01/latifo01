@@ -9,9 +9,9 @@ Hi there! I'm **IBRAHIM YOUSSOUF ABDELATIF**, a passionate developer, AI enthusi
 ### 💻 Programming & Core Concepts
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector%20DB-005571?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -33,6 +33,6 @@ Hi there! I'm **IBRAHIM YOUSSOUF ABDELATIF**, a passionate developer, AI enthusi
 ### 🧠 Large Language Models (LLMs)
 <p align="left">
   <img src="https://img.shields.io/badge/GPT-0055FF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/LLAMA-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qwen-1A5336?style=for-the-badge&logo=alibaba-cloud&logoColor=white" />
 </p>
