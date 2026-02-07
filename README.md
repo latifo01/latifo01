@@ -24,25 +24,17 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Ibrahim Youssouf Abdelatif"
-        self.education = "MSc Applied Mathematics @ Paris-Dauphine PSL"
-        self.role = "Junior Data Scientist"
-        self.languages = ["Python", "R", "C++", "SQL"]
-        
-    def current_focus(self):
-        return [
-            "Machine Learning & Deep Learning",
-            "Large Language Models (LLMs)",
-            "Reinforcement Learning",
-            "Generative AI & RAG Systems"
-        ]
-    
-    def fun_fact(self):
-        return "I believe every dataset tells a story waiting to be discovered 📊"
-```
+<div align="center">
+
+👋 Hi, I'm **Ibrahim Youssouf Abdelatif**, a Junior Data Scientist with an **MSc in Applied Mathematics** from **Paris-Dauphine PSL**.
+
+🔧 **Languages:** Python • R • C++ • SQL
+
+🎯 **Current Focus:** Machine Learning, Deep Learning, LLMs, Reinforcement Learning & GenAI
+
+💡 **Fun Fact:** I believe every dataset tells a story waiting to be discovered! 📊
+
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=latifo01&bg_color=0d1117&color=0077b6&line=00b4d8&point=ffffff&area=true&hide_border=true" width="95%"/>
@@ -95,12 +87,18 @@ class DataScientist:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=latifo01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0077b6&icon_color=00b4d8&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latifo01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0077b6&text_color=ffffff"/>
+  <a href="https://github.com/latifo01">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=latifo01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0077b6&icon_color=00b4d8&text_color=ffffff&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/latifo01">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latifo01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0077b6&text_color=ffffff&langs_count=8"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latifo01&theme=tokyonight&hide_border=true&background=0d1117&ring=0077b6&fire=00b4d8&currStreakLabel=ffffff"/>
+  <a href="https://github.com/latifo01">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=latifo01&theme=tokyonight&hide_border=true&background=0d1117&ring=0077b6&fire=00b4d8&currStreakLabel=ffffff&sideLabels=ffffff"/>
+  </a>
 </div>
 
 ---
