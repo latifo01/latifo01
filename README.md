@@ -82,21 +82,7 @@
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Profile Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=latifo01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latifo01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0077b6&text_color=ffffff&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
