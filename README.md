@@ -1,28 +1,4 @@
- (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
-diff --git a/README.md b/README.md
-index 89d59cbaaa6cab4878891e1ee4e4fda914c78d80..1d07fd763916fa09223c7a4bd9f01bc50979ae76 100644
---- a/README.md
-+++ b/README.md
-@@ -1,38 +1,65 @@
--# 🚀 Welcome to My GitHub Profile!
-+# Ibrahim Youssouf Abdelatif
- 
--Hi there! I'm **IBRAHIM YOUSSOUF ABDELATIF**, a passionate developer, AI enthusiast, and cloud practitioner. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
-+<p align="center">
-+  <em>Junior Data Scientist • AI & Cloud Enthusiast • Building practical ML solutions</em>
-+</p>
-+
-+<p align="center">
-+  <a href="#about">About</a> •
-+  <a href="#focus">Focus</a> •
-+  <a href="#toolkit">Toolkit</a> •
-+  <a href="#learning">Learning</a> •
-+  <a href="#contact">Contact</a>
-+</p>
- 
- ---
- 
--## 🛠️ Tech Stack
+
 +## About
 +I’m a junior data scientist who enjoys turning messy data into clear insights and reliable models. I care about clean pipelines, reproducible experiments, and models that are easy to explain and ship.
 +
