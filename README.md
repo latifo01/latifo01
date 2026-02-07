@@ -87,18 +87,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/latifo01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=latifo01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0077b6&icon_color=00b4d8&text_color=ffffff&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/latifo01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latifo01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0077b6&text_color=ffffff&langs_count=8"/>
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/latifo01">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=latifo01&theme=tokyonight&hide_border=true&background=0d1117&ring=0077b6&fire=00b4d8&currStreakLabel=ffffff&sideLabels=ffffff"/>
-  </a>
+<!-- GitHub Profile Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=latifo01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latifo01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0077b6&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+
 </div>
 
 ---
