@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a52,100:0077b6&height=200&section=header&text=Ibrahim%20Youssouf%20Abdelatif&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20Data%20Into%20Insights&descAlignY=55&descSize=18"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0077B6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Junior+Data+Scientist;Machine+Learning+Engineer;Generative+AI+Enthusiast)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0077B6&center=true&vCenter=true&repeat=true&width=550&height=35&lines=Junior+Data+Scientist;Machine+Learning+Engineer;Generative+AI+Enthusiast" alt="Typing SVG"/>
 
 <!-- Social Badges -->
 <p>
