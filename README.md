@@ -30,7 +30,7 @@
 
 🔧 **Languages:** Python • R • C++ • SQL
 
-🎯 **Current Focus:** Machine Learning, Deep Learning, LLMs, Reinforcement Learning & GenAI
+🎯 **Current Focus:** Machine Learning, Deep Learning, LLMs & Reinforcement Learning 
 
 💡 **Fun Fact:** I believe every dataset tells a story waiting to be discovered! 📊
 
